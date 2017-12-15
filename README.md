@@ -60,9 +60,9 @@ slave side :
  
 * by default values : IP (localhost): 127.0.0.1
                       Port: 8786
-                      
-    
-  Master Side :
+               
+               
+Master Side :
 * server manager node which handles all the stuff like 
   - slave count
   - start time
